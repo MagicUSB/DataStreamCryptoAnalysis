@@ -1,0 +1,5 @@
+/home/user/Завантажене/Reference-arithmetic-coding-master/cpp/CMakeFiles/rebuild_cache.dir
+/home/user/Завантажене/Reference-arithmetic-coding-master/cpp/CMakeFiles/edit_cache.dir
+/home/user/Завантажене/Reference-arithmetic-coding-master/cpp/CMakeFiles/arithmetic_encoding.dir
+/home/user/Завантажене/Reference-arithmetic-coding-master/cpp/pybind11/CMakeFiles/rebuild_cache.dir
+/home/user/Завантажене/Reference-arithmetic-coding-master/cpp/pybind11/CMakeFiles/edit_cache.dir
